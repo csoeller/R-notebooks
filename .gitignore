@@ -1,0 +1,19 @@
+# macos
+.DS_Store
+# emacs
+\#*
+.\#*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# emacs
+*.py~
+*~
+
+# MS temp files
+~$*
