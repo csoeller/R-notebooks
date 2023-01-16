@@ -2,7 +2,7 @@
 
 Below I go through the steps I used (on a mac) to install R notebook infrstructure using the jupyter notebook approach.
 
-Once you worked through 
+Once you worked through the steps below you should be able to make new R notebooks from the Jupyter `New Notebook` menu which should allow you to select R, i.e. to open a new R notebook.
 
 ## Creating the environment and basic conda installs
 
