@@ -59,6 +59,7 @@ R -e 'install.packages("readxl")'
 For this last part we are switching back to using `conda`. It seems pretty hassle-free and has always worked when I tried it.
 
 ```
+conda activate r-stats # activate r-stats env if not already done
 conda install -c conda-forge jupyter
 conda install -c conda-forge r-irkernel
 R -e 'IRkernel::installspec()'
