@@ -52,7 +52,11 @@ R -e 'install.packages("patchwork")'
 R -e 'install.packages("readxl")'
 ```
 
+### Package lawstat: Tools for Biostatistics, Public Policy, and Law
 
+```
+R -e 'install.packages("lawstat")'
+```
 
 ## Conda install of jupyter support and register R kernel
 
